@@ -59,7 +59,7 @@ ORDERED_OBJS += \
 "../headers/cmd/F2837xD_Headers_BIOS_cpu1.cmd" \
 $(GEN_CMDS__FLAG) \
 -llibc.a \
--l"D:/1.Phoenixon_Work/06.Ccs_Workspace/GMJV_Cell_Cycler_5V300A_CVTEST/InterFaceBoard_Rev2.2_CPU1/driverlib/driverlib.lib" \
+-l"D:/1.Phoenixon_Work/04.Git/Git_Ignore_test/GMJV_Cell_Cycler_5V300A_CVTEST/InterFaceBoard_Rev2.2_CPU1/driverlib/driverlib.lib" \
 
 -include ../makefile.init
 
