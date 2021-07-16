@@ -74,6 +74,7 @@ uint16_t git_ignore_test4;
 uint16_t git_ignore_test5;
 uint16_t git_ignore_test6;
 uint16_t git_ignore_test7;
+uint16_t git_ignore_test8;
 
 //#pragma CODE_SECTION(printf, "ramfuncs");
 

@@ -36,9 +36,9 @@ local.properties
 
 #minseung add
 .xml
-Debug/
-/GMJV_Cell_Cycler_5V300A_CVTEST/Cycler_SKI_CPU1/Debug
-/GMJV_Cell_Cycler_5V300A_CVTEST/Cycler_SKI_CPU2/Debug
+Debug/*
+/GMJV_Cell_Cycler_5V300A_CVTEST/Cycler_SKI_CPU1/Debug/*
+/GMJV_Cell_Cycler_5V300A_CVTEST/Cycler_SKI_CPU2/Debug/*
 
 #################
 ## Visual Studio
