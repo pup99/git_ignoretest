@@ -68,6 +68,7 @@ extern volatile S_COMMUNICATION_TX_ALARM s_SENSING_ALARM;
 S_OPERATION_FILE s_Operation;
 
 uint16_t git_ignore_test;
+uint16_t git_ignore_test2;
 
 //#pragma CODE_SECTION(printf, "ramfuncs");
 
