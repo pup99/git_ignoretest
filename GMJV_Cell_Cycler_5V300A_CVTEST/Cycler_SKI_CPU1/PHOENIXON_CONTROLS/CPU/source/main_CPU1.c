@@ -70,6 +70,7 @@ S_OPERATION_FILE s_Operation;
 uint16_t git_ignore_test;
 uint16_t git_ignore_test2;
 uint16_t git_ignore_test3;
+uint16_t git_ignore_test4;
 
 //#pragma CODE_SECTION(printf, "ramfuncs");
 
